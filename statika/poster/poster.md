@@ -68,7 +68,7 @@ Distributions abstract over the \textit{cloud infrastructure}
 
 \begin{center}
 \begin{tabular}{m{0.5\linewidth} m{0.48\linewidth}}
-\includegraphics[width=\linewidth]{resources/logos/agplv3-logo.png} \newline Statika is free and open-source under the \mbox{AGPLv3} license & \includegraphics[width=\linewidth]{resources/images/qrcode.png}
+\includegraphics[width=\linewidth]{resources/logos/agplv3-logo.pdf} \newline Statika is free and open-source under the \mbox{AGPLv3} license & \includegraphics[width=\linewidth]{resources/images/qrcode.png}
 \end{tabular}
 
 See \href{http://ohnosequences.com/statika}{http://ohnosequences.com/statika}
